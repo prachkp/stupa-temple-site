@@ -1,0 +1,45 @@
+/* สไตล์หลักของวัดโพธิธรรมาราม */
+body {
+  font-family: 'Sarabun', sans-serif;
+  background-color: #fefdfb;
+  color: #333;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #5b3c11;
+}
+
+.hero-header {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.4);
+}
+
+.section-title {
+  font-weight: bold;
+  border-bottom: 2px solid #e3c57e;
+  display: inline-block;
+  padding-bottom: 0.4rem;
+  margin-bottom: 1.5rem;
+}
+
+.navbar {
+  font-weight: 500;
+}
+
+.navbar-brand {
+  font-size: 1.25rem;
+  color: #8d6e19 !important;
+}
+
+.nav-link:hover {
+  color: #d4a03b !important;
+}
+
+footer {
+  background: #222;
+  color: #ccc;
+  font-size: 0.9rem;
+}
